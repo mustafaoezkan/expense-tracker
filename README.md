@@ -1,6 +1,9 @@
   <h2>Expense Tracker</h2>
   <p>
-    <a href="https://expense-tracker-eight-self.vercel.app/">View Demo</a>
+    <a href="https://backend-of-expense-tracker.herokuapp.com/">Backend</a>
+  </p>
+  <p>
+    <a href="https://expense-tracker-eight-self.vercel.app/">Frontend</a>
   </p>
   <h5>
     You can try with this credientals:
@@ -29,6 +32,10 @@
 2. Install NPM packages
    ```sh
    npm install or yarn install
+   ```
+3. Run app
+   ```sh
+   npm start or yarn start
    ```
 
 ## Contact
