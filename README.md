@@ -9,7 +9,7 @@
     <a href="https://expense-tracker-eight-self.vercel.app/">Frontend</a>
   </p>
   <h5>
-    You can try with this credientals:
+    You can try with these credientals:
   </h5>
   <h4>
     Username: example
